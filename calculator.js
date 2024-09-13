@@ -9,7 +9,7 @@ function subtract(a, b) {
 }
 
 // Function to multiply two numbers
-function multiply(a, b) {
+  function multiply(a, b) {
    return a * b;
 }
 
